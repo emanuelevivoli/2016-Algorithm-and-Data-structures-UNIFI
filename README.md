@@ -1,10 +1,8 @@
 # 2016 Algorithm and Data structures @ UniFi
 
-<div style="text-align:center">
+<p align="center">
     <img src="University_of_Florence.png" alt="logo-UniFi" width="200"/>
-</div>
-
-&nbsp;
+</p>
 
 # Introduction
 This repo contains all exercises from the "Algorithm and Data structures" course at University of Florence.
